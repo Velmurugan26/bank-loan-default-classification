@@ -126,7 +126,7 @@ This system can help banks and fintech companies:
 
 ## 👨‍💻 Author
 
-- Your Name
+- ANANTHARAJAN VEL MURUGAN
 - AI & Machine Learning Student
 - Open to Internship/job Opportunities 🚀
 
